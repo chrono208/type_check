@@ -18,10 +18,10 @@ It also explicitly filters out boolean values (True or False), since in Python t
 </ul>
 
 <h2>Example</h2>
-result = only_ints(5, 10)
-print(result)
+result = only_ints(5, 10)<br>
+print(result)<br>
 
 <h2>Output</h2>
-5 and 10
-True and True
-True
+5 and 10<br>
+True and True<br>
+True<br>
